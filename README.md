@@ -1,22 +1,33 @@
-<h1 align="center">Salom Asadbek Muydinov</h1>
-<h3 align="center">Frontend dasturchi,MayoqHub 2.0 o'quvchisi</h3>
+# Muhammadjavohir Sur'atov
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muydinovasadbek&label=Profile%20views&color=0e75b6&style=flat" alt="muydinovasadbek" /> </p>
+Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muydinovasadbek" alt="muydinovasadbek" /></a> </p>
+[💼 Portfolio](https://abm-portfolio.netlify.app/) | [💬 Telegram](https://t.me/Asadbek_Muydinov) | 📧 asadbekmoydinov06@gmail.com
 
-- 📫 How to reach me **asadbekmoydinov06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Texnologiyalar
+
 <p align="left">
-<a href="https://instagram.com/asadbekmuydinov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asadbekmuydinov1" height="30" width="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muydinovasadbek&show_icons=true&locale=en&layout=compact" alt="muydinovasadbek" /></p>
+## So'nggi loyihalar
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muydinovasadbek&show_icons=true&locale=en" alt="muydinovasadbek" /></p>
+| Preview | Ta'rif |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlayn do'konning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/MuydinovAsadbek/Sneakers">🧾 Repo</a> - <a href="https://https://abm-ecommerce.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 5 soat 25 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor-yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/MuydinovAsadbek/Myteam">🧾 Repo</a> - <a href="https://abm-myteam.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muydinovasadbek&" alt="muydinovasadbek" /></p>
+**<a href="https://abm-portfolio.netlify.app/" target="_blank">💼 Barcha loyihalar</a>**
+
+
