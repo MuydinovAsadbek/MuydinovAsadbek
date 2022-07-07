@@ -24,4 +24,9 @@ Frontend dasturchi, MayoqHub 2.0 o'quvchisi.
 
 **<a href="https://abm-portfolio.netlify.app/" target="_blank">💼 Barcha loyihalar</a>**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muydinovasadbek&show_icons=true&locale=en&layout=compact" alt="muydinovasadbek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muydinovasadbek&show_icons=true&locale=en" alt="muydinovasadbek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muydinovasadbek&" alt="muydinovasadbek" /></p>
 
