@@ -1,4 +1,4 @@
-# Muhammadjavohir Sur'atov
+# Asadbek Muydinov
 
 Frontend dasturchi, MayoqHub 2.0 o'quvchisi.
 
