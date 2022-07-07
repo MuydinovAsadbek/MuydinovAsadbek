@@ -24,6 +24,15 @@ Frontend dasturchi, MayoqHub 2.0 o'quvchisi.
 
 **<a href="https://abm-portfolio.netlify.app/" target="_blank">💼 Barcha loyihalar</a>**
 
+
+## Sahifalar
+
+<p align="left">
+<a href="https://www.linkedin.com/in/asadbek-muydinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadbek-muydinov" height="30" width="40" /></a>
+<a href="https://www.facebook.com/asadbek.moydinov.750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asadbek-muydinov" height="30" width="40" /></a>
+<a href="https://www.instagram.com/asadbekmuydinov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asadbek-muydinov" height="30" width="40" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muydinovasadbek&show_icons=true&locale=en&layout=compact" alt="muydinovasadbek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muydinovasadbek&show_icons=true&locale=en" alt="muydinovasadbek" /></p>
